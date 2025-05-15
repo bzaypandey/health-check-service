@@ -1,13 +1,19 @@
-# 🚦 Health Check Service
+# Health Check Service
 
 A FastAPI microservice for managing service health statuses.
 
-## 🌐 Features
+## Features
 
 - View, add, update, and delete service health.
 - Simple in-memory data store.
 
-## ▶️ Run Locally
+## Requirements
+
+- Python 3.7 or higher
+- pip (Python package manager)
+- Git
+
+## Run Locally
 
 ```bash
 git clone https://github.com/bzaypandey/health-check-service.git
