@@ -10,7 +10,7 @@ A FastAPI microservice for managing service health statuses.
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/health-check-service.git
+git clone https://github.com/bzaypandey/health-check-service.git
 cd health-check-service
 python3 -m venv venv
 source venv/bin/activate
